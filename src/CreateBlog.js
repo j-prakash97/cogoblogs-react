@@ -10,7 +10,7 @@ function CreateBlog() {
 
   return (
     <>
-      <h1>Hello</h1>
+      <h1>Hello World</h1>
       <input type="text" id="blog-title"></input>
       <button onClick={addData}>Send</button>
     </>
